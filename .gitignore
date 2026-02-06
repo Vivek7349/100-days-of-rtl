@@ -1,0 +1,2 @@
+# Ignore all tool project directories anywhere in the repo
+**/project/
